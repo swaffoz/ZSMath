@@ -8,5 +8,8 @@
 
 import Foundation
 
-println("Hello, World!")
-
+println("Hello, World! This is ZSMath!\n" +
+        "The main.swift file doesn't do anything,\n" +
+        "\tbut you can hit ⌘U to run the tests,\n" +
+        "\tor copy the ZSMath.swift file\n" +
+        "\tto use it in your project!")
